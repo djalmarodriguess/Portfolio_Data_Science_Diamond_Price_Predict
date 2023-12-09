@@ -8,19 +8,19 @@ This project involves predicting the price of diamonds using various attributes 
 - Create a simple application for users to predict diamond prices based on new data.
  
 ## Methodology:
-**1. Data Acquisition and Cleaning:**
-    - Load the dataset containing diamond attributes and prices.
-    - Cleaning and pre-process the data by handling missing values, outliers, and transformations.
-**2. Exploratory Data Analysis:**
-    - Analyze the distribution of features and their correlations with the target variable (price).
-    - Identify key features that influence diamond prices.
-**3. Model Training and Evaluation:**
-    - Train various machine learning models, such as Random Forest, Gradient Boosting, and Linear Regression.
-    - Evaluate each model's performance using metrics like Mean Absolute Error (MAE) and R-squared.
-    - Choose the model with the best performance for price prediction.
-**5. Application Development:**
-    - Develop a simple application where users can input diamond attributes and receive predicted prices.
-    - Ensure the application is user-friendly and provides meaningful information.
+1. **Data Acquisition and Cleaning:**
+   - Load the dataset containing diamond attributes and prices.
+   - Cleaning and pre-process the data by handling missing values, outliers, and transformations.
+2. **Exploratory Data Analysis:**
+   - Analyze the distribution of features and their correlations with the target variable (price).
+   - Identify key features that influence diamond prices.
+3. **Model Training and Evaluation:**
+   - Train various machine learning models, such as Random Forest, Gradient Boosting, and Linear Regression.
+   - Evaluate each model's performance using metrics like Mean Absolute Error (MAE) and R-squared.
+   - Choose the model with the best performance for price prediction.
+5. **Application Development:**
+   - Develop a simple application where users can input diamond attributes and receive predicted prices.
+   - Ensure the application is user-friendly and provides meaningful information.
 
 ## Results:
 - **Model Selection:** Random Forest model was chosen due to its high accuracy and low error rate (MAE of 152.8, representing 3.69% of the mean real price).
