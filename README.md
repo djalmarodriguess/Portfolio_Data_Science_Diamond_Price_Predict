@@ -9,8 +9,8 @@ This project involves predicting the price of diamonds using various attributes 
  
 ## Methodology:
 **1. Data Acquisition and Cleaning:**
-    - Acquire a dataset containing diamond attributes and prices.
-    - Clean and pre-process the data by handling missing values, outliers, and transformations.
+    - Load the dataset containing diamond attributes and prices.
+    - Cleaning and pre-process the data by handling missing values, outliers, and transformations.
 **2. Exploratory Data Analysis:**
     - Analyze the distribution of features and their correlations with the target variable (price).
     - Identify key features that influence diamond prices.
