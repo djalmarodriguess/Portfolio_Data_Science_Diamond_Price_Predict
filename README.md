@@ -1,4 +1,6 @@
 # Diamond Price Prediction Project
+<img src="https://github.com/user-attachments/assets/127aee2d-6f61-4062-a9f9-8500454c57ba" alt="image" width="800" height="350"/>
+
 
 This project involves predicting the price of diamonds using various attributes such as carat, cut, color, clarity, and measurements. The project utilizes machine learning models to analyze a dataset of over 54,000 diamonds and estimate their market value.
 
